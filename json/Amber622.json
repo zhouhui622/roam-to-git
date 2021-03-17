@@ -544,13 +544,253 @@
             }
           },
           {
-            "string": "6. 记忆系统的工作",
-            "create-time": 1615887732087,
-            "uid": "YpKttiK2B",
-            "edit-time": 1615893073272,
+            "string": "6. 记忆系统的工作 ：输入 > 编码 > 存储 > 提取需要时找到的记忆\n",
+            "create-time": 1615953696044,
+            "uid": "-dUPyMGZg",
+            "edit-time": 1615953750504,
             ":create/user": {
               ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
             },
+            ":edit/user": {
+              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+            }
+          },
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAmber622%2FH1rXaJHQAQ.png?alt=media&token=b0450de2-5014-4daa-b1ab-a7789788c86e)",
+            "create-time": 1615887732087,
+            ":create/user": {
+              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+            },
+            "children": [
+              {
+                "string": "编码",
+                "create-time": 1615952462981,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                "children": [
+                  {
+                    "string": "意义的类型",
+                    "create-time": 1615952072479,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    "children": [
+                      {
+                        "string": "感觉意义：简单的处理刺激",
+                        "create-time": 1615952355421,
+                        "uid": "NEy68IeIW",
+                        "edit-time": 1615952372575,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      },
+                      {
+                        "string": "象征意义：象征性的联想",
+                        "create-time": 1615952287358,
+                        "uid": "JOiLlr2Wf",
+                        "edit-time": 1615952441452,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      }
+                    ],
+                    "uid": "Aqb-9JoNw",
+                    "edit-time": 1615952462988,
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  },
+                  {
+                    "string": "个体相关性",
+                    "create-time": 1615952445469,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    "children": [
+                      {
+                        "string": "片段记忆 episodic memories",
+                        "create-time": 1615952473346,
+                        "uid": "W6vohXvTL",
+                        "edit-time": 1615952482583,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      },
+                      {
+                        "string": "闪光灯记忆 flashbulb memories",
+                        "create-time": 1615952482572,
+                        "uid": "HXbkswBNx",
+                        "edit-time": 1615952522598,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      },
+                      {
+                        "string": "传达产品信息：叙述或讲故事",
+                        "create-time": 1615952523007,
+                        "uid": "WhFr6DcHx",
+                        "edit-time": 1615952573371,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      }
+                    ],
+                    "uid": "00yEMYgz0",
+                    "edit-time": 1615952473356,
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  },
+                  {
+                    "string": "记忆系统",
+                    "create-time": 1615952610432,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    "children": [
+                      {
+                        "string": "感觉记忆 sensory memory：从感官得到的信息",
+                        "create-time": 1615952614120,
+                        "uid": "fjHzbRNNo",
+                        "edit-time": 1615952727432,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      },
+                      {
+                        "string": "短期记忆 short-term memory：小片信息结合成较大的信息片段[[组块 chunking]]",
+                        "create-time": 1615952620331,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "WwiOPbmC0"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "WwiOPbmC0"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        "uid": "J54t0B38s",
+                        "edit-time": 1615952846508,
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      },
+                      {
+                        "string": "长期记忆 long-term memory：",
+                        "create-time": 1615952622590,
+                        "uid": "cIMCIoC_E",
+                        "edit-time": 1615953011423,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      }
+                    ],
+                    "uid": "6588SKSFL",
+                    "edit-time": 1615952613959,
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  },
+                  {
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FAmber622%2FcsyC1aIBdk.png?alt=media&token=457f99ea-b60e-4e7b-979c-8e8f3bde36c1)",
+                    "create-time": 1615953064865,
+                    "uid": "eYRUeRCqv",
+                    "edit-time": 1615953099736,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  }
+                ],
+                "uid": "OXLFn3YF4",
+                "edit-time": 1615952462981,
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              },
+              {
+                "string": "存储",
+                "create-time": 1615952276428,
+                "uid": "iXYh6nB0W",
+                "edit-time": 1615952281463,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              },
+              {
+                "string": "提取信息",
+                "create-time": 1615952281528,
+                "uid": "7oVW-6HFD",
+                "edit-time": 1615952284230,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              },
+              {
+                "string": "[[消费者透视 3-1]][*](((-dUPyMGZg)))",
+                "create-time": 1615953175948,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ib6o2I5G8"
+                  },
+                  {
+                    ":block/uid": "-dUPyMGZg"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ib6o2I5G8"
+                  },
+                  {
+                    "uid": "-dUPyMGZg"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                "uid": "Ryvtmbi7p",
+                "edit-time": 1615953739771,
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              }
+            ],
+            "uid": "YpKttiK2B",
+            "edit-time": 1615953699734,
             ":edit/user": {
               ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
             }
@@ -881,6 +1121,186 @@
     ":create/user": {
       ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
     },
+    ":edit/user": {
+      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+    }
+  },
+  {
+    "create-time": 1615952846510,
+    "title": "组块 chunking",
+    ":create/user": {
+      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+    },
+    "children": [
+      {
+        "string": "短期记忆可以同时加工5～9个信息chunking",
+        "create-time": 1615952849061,
+        ":create/user": {
+          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+        },
+        "children": [
+          {
+            "string": "`信息有效提取组块的最佳容量是3～4个`",
+            "create-time": 1615952890282,
+            "uid": "Ye34YtiZ4",
+            "edit-time": 1615952930084,
+            ":create/user": {
+              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+            },
+            ":edit/user": {
+              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+            }
+          }
+        ],
+        "uid": "IJJdRJjN8",
+        "edit-time": 1615952882813,
+        ":edit/user": {
+          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+        }
+      },
+      {
+        "string": "营销^^chunking^^很重要：**有助于确定消费者在比较购物时，如何在短期记忆里存储价格**",
+        "create-time": 1615952939870,
+        "uid": "yENamfIGq",
+        "edit-time": 1615952986780,
+        ":create/user": {
+          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+        },
+        ":edit/user": {
+          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+        }
+      }
+    ],
+    "uid": "WwiOPbmC0",
+    "edit-time": 1615952846511,
+    ":edit/user": {
+      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+    }
+  },
+  {
+    "create-time": 1615953192628,
+    "title": "消费者透视 3-1",
+    ":create/user": {
+      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+    },
+    "children": [
+      {
+        "string": "严格的逻辑演绎世界：例证思想",
+        "create-time": 1615953195328,
+        "uid": "DN9FdxDBx",
+        "edit-time": 1615953228285,
+        ":create/user": {
+          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+        },
+        ":edit/user": {
+          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+        }
+      },
+      {
+        "string": "审美医院的不精确世界：^^__叙事思想__^^",
+        "create-time": 1615953228279,
+        ":create/user": {
+          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+        },
+        "children": [
+          {
+            "string": "由两个元素组成：时间表和因果关系",
+            "create-time": 1615953282403,
+            ":create/user": {
+              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+            },
+            "children": [
+              {
+                "string": "首先按照时间维度组织事件",
+                "create-time": 1615953315759,
+                "uid": "BEtQ-37d_",
+                "edit-time": 1615953335116,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              },
+              {
+                "string": "将元素组织在一个框架中，建立相互的之间联系",
+                "create-time": 1615953943848,
+                "uid": "_k_UvoXM4",
+                "edit-time": 1615953943848,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              }
+            ],
+            "uid": "6t0k1TcMQ",
+            "edit-time": 1615953314549,
+            ":edit/user": {
+              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+            }
+          },
+          {
+            "string": "如何叙事性的说服消费者",
+            "create-time": 1615953335109,
+            ":create/user": {
+              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+            },
+            "children": [
+              {
+                "string": "机理：运送 [通过减少负面的认知，现实主义的体验以及强烈的情感反应来达到说服效果]",
+                "create-time": 1615954326328,
+                "uid": "il0gm0x_P",
+                "edit-time": 1615954444157,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              },
+              {
+                "string": "定义：沉浸到剧情中",
+                "create-time": 1615954370080,
+                "uid": "z9xkkln1k",
+                "edit-time": 1615954381022,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              },
+              {
+                "string": "",
+                "create-time": 1615954381013,
+                "uid": "EkFdZh0lI",
+                "edit-time": 1615954381013,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              }
+            ],
+            "uid": "CyNpNyf_J",
+            "edit-time": 1615953951121,
+            ":edit/user": {
+              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+            }
+          }
+        ],
+        "uid": "waJGaB_7t",
+        "edit-time": 1615953455473,
+        ":edit/user": {
+          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+        }
+      }
+    ],
+    "uid": "ib6o2I5G8",
+    "edit-time": 1615953487130,
     ":edit/user": {
       ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
     }
