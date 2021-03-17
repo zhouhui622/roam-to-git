@@ -737,13 +737,153 @@
                 }
               },
               {
-                "string": "存储",
+                "string": "存储：^^记忆激活模型 activation models of memory^^",
                 "create-time": 1615952276428,
-                "uid": "iXYh6nB0W",
-                "edit-time": 1615952281463,
                 ":create/user": {
                   ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
                 },
+                "children": [
+                  {
+                    "string": "对记忆的加工不同，激活的层面不同",
+                    "create-time": 1615997525479,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    "children": [
+                      {
+                        "string": "联想网络",
+                        "create-time": 1615997062912,
+                        "uid": "gu-Mut8St",
+                        "edit-time": 1615997525488,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      },
+                      {
+                        "string": "激活扩散 spreading activation",
+                        "create-time": 1615997528247,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        "children": [
+                          {
+                            "string": "品牌特定 brand-specific",
+                            "create-time": 1615997625284,
+                            "uid": "YRhUoUZgC",
+                            "edit-time": 1615997657802,
+                            ":create/user": {
+                              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                            }
+                          },
+                          {
+                            "string": "广告特定 ad-specific",
+                            "create-time": 1615997631495,
+                            "uid": "EBCUgFM9n",
+                            "edit-time": 1615997664766,
+                            ":create/user": {
+                              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                            }
+                          },
+                          {
+                            "string": "品牌识别 brand idenfication",
+                            "create-time": 1615997634629,
+                            "uid": "znCS3Y4wu",
+                            "edit-time": 1615997671686,
+                            ":create/user": {
+                              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                            }
+                          },
+                          {
+                            "string": "产品识别 product category",
+                            "create-time": 1615997637024,
+                            "uid": "97wQyisvL",
+                            "edit-time": 1615997679695,
+                            ":create/user": {
+                              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                            }
+                          },
+                          {
+                            "string": "评价反应 evaluative reactions",
+                            "create-time": 1615997641112,
+                            "uid": "yS94kgnJ1",
+                            "edit-time": 1615997687324,
+                            ":create/user": {
+                              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                            }
+                          }
+                        ],
+                        "uid": "LW-NR7Ta8",
+                        "edit-time": 1615997548365,
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      }
+                    ],
+                    "uid": "T_J4QPLiR",
+                    "edit-time": 1615997525479,
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  },
+                  {
+                    "string": "知识水平",
+                    "create-time": 1615997713222,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    "children": [
+                      {
+                        "string": "意义",
+                        "create-time": 1615997786745,
+                        "uid": "NfKqjCKY5",
+                        "edit-time": 1615997788730,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      },
+                      {
+                        "string": "图示：脚本 script",
+                        "create-time": 1615997788719,
+                        "uid": "oO3N8tVBH",
+                        "edit-time": 1615997829787,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      }
+                    ],
+                    "uid": "U9lopq6fD",
+                    "edit-time": 1615997729245,
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  }
+                ],
+                "uid": "iXYh6nB0W",
+                "edit-time": 1615996978115,
                 ":edit/user": {
                   ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
                 }
@@ -751,11 +891,149 @@
               {
                 "string": "提取信息",
                 "create-time": 1615952281528,
-                "uid": "7oVW-6HFD",
-                "edit-time": 1615952284230,
                 ":create/user": {
                   ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
                 },
+                "children": [
+                  {
+                    "string": "提取的影响因素",
+                    "create-time": 1615997855330,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    "children": [
+                      {
+                        "string": "个人的认知",
+                        "create-time": 1615997915977,
+                        "uid": "rI5kuOZvp",
+                        "edit-time": 1615997920972,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      },
+                      {
+                        "string": "生理因素",
+                        "create-time": 1615997920963,
+                        "uid": "SWr2RYXFj",
+                        "edit-time": 1615997924173,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      },
+                      {
+                        "string": "情境",
+                        "create-time": 1615997924166,
+                        "uid": "XfDCq3iGJ",
+                        "edit-time": 1615997939264,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      }
+                    ],
+                    "uid": "1ZDkwfe3H",
+                    "edit-time": 1615997915986,
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  },
+                  {
+                    "string": "状态依存性提取 state-dependent retrieval ",
+                    "create-time": 1615998138414,
+                    "uid": "28dNawYwh",
+                    "edit-time": 1615998165711,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  },
+                  {
+                    "string": "熟悉度的回忆",
+                    "create-time": 1615998175764,
+                    "uid": "e3FJJUkj5",
+                    "edit-time": 1615998180155,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  },
+                  {
+                    "string": "突出性与回忆 salience：冯.雷斯托夫效应 Von Restorff Effect",
+                    "create-time": 1615998204162,
+                    "uid": "EeBdaZRuH",
+                    "edit-time": 1615998291153,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  },
+                  {
+                    "string": "图画线索与语言线索：图画虽更容易记忆但不容易被理解",
+                    "create-time": 1615998328199,
+                    "uid": "Thq4yM2g8",
+                    "edit-time": 1615998349842,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  },
+                  {
+                    "string": "营销者提供信息的方式影响消费者回忆信息的可能性：植入广告 bitcoms",
+                    "create-time": 1615998010823,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    "children": [
+                      {
+                        "string": "空间效果 spacing effect",
+                        "create-time": 1615998035173,
+                        "uid": "uwg-YI3g4",
+                        "edit-time": 1615998043356,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      },
+                      {
+                        "string": "部分列表提示效应 part-list cueing effect",
+                        "create-time": 1615998621730,
+                        "uid": "8JcI8n73S",
+                        "edit-time": 1615998640830,
+                        ":create/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                        }
+                      }
+                    ],
+                    "uid": "kJDofBw4J",
+                    "edit-time": 1615998102135,
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  }
+                ],
+                "uid": "7oVW-6HFD",
+                "edit-time": 1615952284230,
                 ":edit/user": {
                   ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
                 }
@@ -810,11 +1088,39 @@
           {
             "string": "8. 产品有助于我们回忆过去",
             "create-time": 1615887761305,
-            "uid": "emzI5BXdQ",
-            "edit-time": 1615893078431,
             ":create/user": {
               ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
             },
+            "children": [
+              {
+                "string": "怀旧的营销力量 nostalgia",
+                "create-time": 1615998822154,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                "children": [
+                  {
+                    "string": "记忆和审美的偏好",
+                    "create-time": 1615998858115,
+                    "uid": "wyB-nR0IS",
+                    "edit-time": 1615998866769,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  }
+                ],
+                "uid": "KhZZu-eGw",
+                "edit-time": 1615998839902,
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              }
+            ],
+            "uid": "emzI5BXdQ",
+            "edit-time": 1615893078431,
             ":edit/user": {
               ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
             }
@@ -822,11 +1128,87 @@
           {
             "string": "9. 营销者测量我们对产品和广告的记忆",
             "create-time": 1615887768922,
-            "uid": "Twn1Qg24C",
-            "edit-time": 1615893080783,
             ":create/user": {
               ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
             },
+            "children": [
+              {
+                "string": "营销刺激的记忆测量",
+                "create-time": 1615998885499,
+                "uid": "XXrMYcSQk",
+                "edit-time": 1615998894520,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              },
+              {
+                "string": "再认与回忆",
+                "create-time": 1615998921390,
+                "uid": "jQE_chvEB",
+                "edit-time": 1615998939562,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              },
+              {
+                "string": "记忆测量中的问题",
+                "create-time": 1615999047895,
+                ":create/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                },
+                "children": [
+                  {
+                    "string": "反应偏差 response bias",
+                    "create-time": 1615999054355,
+                    "uid": "uMCpMdp42",
+                    "edit-time": 1615999062235,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  },
+                  {
+                    "string": "记忆失误",
+                    "create-time": 1615999062226,
+                    "uid": "-evchoIVY",
+                    "edit-time": 1615999073977,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  },
+                  {
+                    "string": "事实还是情感的记忆",
+                    "create-time": 1615999070495,
+                    "uid": "KK_Wef9Wv",
+                    "edit-time": 1615999101367,
+                    ":create/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                    }
+                  }
+                ],
+                "uid": "ZFYvZ6ZNe",
+                "edit-time": 1615999054363,
+                ":edit/user": {
+                  ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+                }
+              }
+            ],
+            "uid": "Twn1Qg24C",
+            "edit-time": 1615893080783,
             ":edit/user": {
               ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
             }
@@ -834,18 +1216,6 @@
         ],
         "uid": "kVoJSkE8G",
         "edit-time": 1615888046255,
-        ":edit/user": {
-          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1615887875506,
-        "uid": "o2cPa36SR",
-        "edit-time": 1615887944204,
-        ":create/user": {
-          ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
-        },
         ":edit/user": {
           ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
         }
@@ -1114,18 +1484,6 @@
     }
   },
   {
-    "create-time": 1615938180196,
-    "title": "March 17th, 2021",
-    "uid": "03-17-2021",
-    "edit-time": 1615938180196,
-    ":create/user": {
-      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
-    },
-    ":edit/user": {
-      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
-    }
-  },
-  {
     "create-time": 1615952846510,
     "title": "组块 chunking",
     ":create/user": {
@@ -1273,10 +1631,10 @@
                 }
               },
               {
-                "string": "",
-                "create-time": 1615954381013,
-                "uid": "EkFdZh0lI",
-                "edit-time": 1615954381013,
+                "string": "叙事性广告强调与消费者产生共鸣，而非依赖逻辑论证",
+                "create-time": 1615996788971,
+                "uid": "i_-nC51hb",
+                "edit-time": 1615996844684,
                 ":create/user": {
                   ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
                 },
@@ -1301,6 +1659,30 @@
     ],
     "uid": "ib6o2I5G8",
     "edit-time": 1615953487130,
+    ":edit/user": {
+      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+    }
+  },
+  {
+    "create-time": 1615998482860,
+    "title": "March 18th, 2021",
+    "uid": "03-18-2021",
+    "edit-time": 1615998482860,
+    ":create/user": {
+      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+    },
+    ":edit/user": {
+      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+    }
+  },
+  {
+    "create-time": 1615999184662,
+    "title": "March 17th, 2021",
+    "uid": "03-17-2021",
+    "edit-time": 1615999184662,
+    ":create/user": {
+      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+    },
     ":edit/user": {
       ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
     }
