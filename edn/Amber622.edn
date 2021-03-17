@@ -98,8 +98,8 @@
   [51 :version/id "0.8.3" 536871077]
   [51
    :version/nonce
-   "uuid9a51164d-a7f3-4692-b2eb-c9b67e1d13c8"
-   536872314]
+   "uuid99f24fad-c7c9-424c-a315-63c4864f1ecc"
+   536872317]
   [56 :block/string "" 536871099]
   [56 :block/uid "5jVQxLaVS" 536871099]
   [56 :edit/time 1615876460347 536871099]
@@ -264,7 +264,7 @@
   [90 :edit/user 1 536871303]
   [91 :block/children 137 536871521]
   [91 :block/children 150 536871599]
-  [91 :block/open false 536872228]
+  [91 :block/open true 536872317]
   [91 :block/order 3 536871405]
   [91 :block/page 69 536871312]
   [91 :block/parents 69 536871312]
@@ -277,7 +277,7 @@
   [91 :edit/user 1 536871311]
   [92 :block/children 247 536872246]
   [92 :block/children 252 536872294]
-  [92 :block/open false 536872311]
+  [92 :block/open true 536872316]
   [92 :block/order 4 536871516]
   [92 :block/page 69 536871316]
   [92 :block/parents 69 536871316]
@@ -1119,9 +1119,9 @@
   [253 :edit/time 1615907182966 536872310]
   [253 :edit/user 1 536872300]
   [255 :block/uid "03-17-2021" 536872314]
-  [255 :create/time 1615942421836 536872314]
+  [255 :create/time 1615938180196 536872315]
   [255 :create/user 1 536872314]
-  [255 :edit/time 1615942421837 536872314]
+  [255 :edit/time 1615938180196 536872315]
   [255 :edit/user 1 536872314]
-  [255 :log/id 1615942421835 536872314]
+  [255 :log/id 1615938180195 536872315]
   [255 :node/title "March 17th, 2021" 536872314]]}
