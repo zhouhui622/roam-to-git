@@ -1746,5 +1746,17 @@
     ":edit/user": {
       ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
     }
+  },
+  {
+    "create-time": 1617930290478,
+    "title": "April 9th, 2021",
+    "uid": "04-09-2021",
+    "edit-time": 1617930290478,
+    ":create/user": {
+      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+    },
+    ":edit/user": {
+      ":user/uid": "znjOzDD6sLc0GN1mIREUc3ocEdW2"
+    }
   }
 ]
