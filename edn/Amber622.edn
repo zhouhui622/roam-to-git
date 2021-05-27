@@ -53,6 +53,7 @@
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :block/parents
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :graph/name {:db/unique :db.unique/identity},
   :block/page
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :version/id {:db/unique :db.unique/identity}},
@@ -69,9 +70,8 @@
    {:namespace-options [:none :partial :full],
     :right-sidebar-pinned {},
     :showing-own-icons? true,
-    :showing-user-icons? true,
-    :allow-custom-components? true}
-   536871632]
+    :showing-user-icons? true}
+   536873014]
   [1 :user/uid "znjOzDD6sLc0GN1mIREUc3ocEdW2" 536870914]
   [10 :version/id "0.0.0" 536870943]
   [10
@@ -96,11 +96,19 @@
    :version/nonce
    "uuid474b24ab-e024-4112-a89d-4586b8d84183"
    536871841]
+  [46
+   :version/upgraded-nonce
+   "uuid474b24ab-e024-4112-a89d-4586b8d84183"
+   536873015]
   [51 :version/id "0.8.3" 536871077]
   [51
    :version/nonce
    "uuid2d24b14c-40f2-42f1-bafe-5c9292eac085"
    536872978]
+  [51
+   :version/upgraded-nonce
+   "uuid2d24b14c-40f2-42f1-bafe-5c9292eac085"
+   536873015]
   [56 :block/string "" 536871099]
   [56 :block/uid "5jVQxLaVS" 536871099]
   [56 :edit/time 1615876460347 536871099]
@@ -2016,6 +2024,10 @@
    :version/nonce
    "uuidfe64b543-2bfb-4584-b615-20e89e3fb8d7"
    536873013]
+  [348
+   :version/upgraded-nonce
+   "uuidfe64b543-2bfb-4584-b615-20e89e3fb8d7"
+   536873015]
   [359 :block/uid "04-02-2021" 536872998]
   [359 :create/time 1617348337919 536872998]
   [359 :create/user 1 536872998]
@@ -2127,4 +2139,9 @@
   [374 :edit/time 1618621560588 536873013]
   [374 :edit/user 1 536873013]
   [374 :log/id 1618621560587 536873013]
-  [374 :node/title "April 17th, 2021" 536873013]]}
+  [374 :node/title "April 17th, 2021" 536873013]
+  [375 :version/id "0.8.5" 536873014]
+  [375
+   :version/nonce
+   "uuid122f7328-6eb9-449f-9b9b-275cb159b22b" 
+   536873015]]}
